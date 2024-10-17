@@ -1,0 +1,17 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1729128399
+icon.svg::CompressedTexture2D::5758790368164409112::1729112541::1729112558::1::::<><>::
+::res://assets/::1729113184
+bgm_action_5.mp3::AudioStreamMP3::5503462027570856056::1729113184::1729134795::1::::<><>::
+element_red_diamond.png::CompressedTexture2D::7221589819311368326::1729113184::1729113184::1::::<><>::
+explode.wav::AudioStreamWAV::4809137392194463997::1729113184::1729113184::1::::<><>::
+GameBg.png::CompressedTexture2D::2004295713075485394::1729113184::1729113184::1::::<><>::
+paddleBlu.png::CompressedTexture2D::9008869231019954931::1729113184::1729113184::1::::<><>::
+spell1_0.wav::AudioStreamWAV::2874189594073368633::1729113184::1729113184::1::::<><>::
+::res://scenes/::1729134692
+game.tscn::PackedScene::6754981707717811225::1729134691::0::1::::<><>::res://scenes/game.gd<>uid://3s5ps7ca073s::::res://assets/GameBg.png<>uid://dea18cb8h5m1j::::res://scenes/paddle.tscn<>uid://b2y6i3l661b53::::res://scenes/gem.tscn
+gem.gd::GDScript::-1::1729132031::0::1::::Gem<>Area2D<>::
+gem.tscn::PackedScene::4332962530242010876::1729134692::0::1::::<><>::uid://da5gr82d5p06m::::res://assets/element_red_diamond.png<>res://scenes/gem.gd
+paddle.tscn::PackedScene::7441655106743644269::1729134692::0::1::::<><>::uid://d1l703t6urtb4::::res://assets/paddleBlu.png<>res://scenes/paddle.gd
+paddle.gd::GDScript::-1::1729133019::0::1::::<>Area2D<>::
+game.gd::GDScript::-1::1729134688::0::1::::<>Node2D<>::
